@@ -30,7 +30,7 @@ Frontend developer с 2-летним опытом работы. Участвов
 ## Проекты с возможностью демонстрации
 ### [404 page]
 - Описание: 404 страница с динамической подсветкой курсора и случанйым обновлением фона.
-- GitHub: 
+- GitHub: https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx
 ### [BeerKing]
 - Описание: браузерная игра
 - GitHub: https://github.com/XnextOneO/BeerKing
