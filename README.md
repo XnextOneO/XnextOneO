@@ -1,45 +1,50 @@
 # CV
 
-## Имя
-Андрей Журавлёв
+## Name
+Andrey Zhurawliou
 
-## Контакты
-- Электронная почта: xnextone@gmail.com
+## Contacts
+- Email: xnextone@gmail.com
 - GitHub: [github.com/XnextOneO](https://github.com/XnextOneO)
+- Telegram: [https://t.me/xnextone](https://t.me/xnextone)
 
-## Навыки
+## Skills
 - JavaScript, TypeScript
 - React
+- Redux / Redux Toolkit
+- Axios
+- Git, GitHub
 - HTML, CSS
 - Flexbox
 - Responsive and cross-browser layout
 - SQL
+- Docker
 
+## Bio
+Frontend developer with 2 years of experience. Participated in the creation of websites and web pages for both individuals and companies.
 
-## Биография
-Frontend developer с 2-летним опытом работы. Участвовал в создании веб-сайтов и веб-страниц как для частных лиц, так и для компаний.
-## Опыт работы
-- Разработка и поддержка пользовательского интерфейса для веб-приложений с использованием React, JavaScript и TypeScript.
-- Интеграция различных библиотек и фреймворков, таких как Styled Components, Bootstrap, Material UI, Ant Design.
-- Оптимизация производительности и доступности веб-приложений.
+## Work Experience
+- Development and maintenance of user interfaces for web applications using React, JavaScript, and TypeScript.
+- Integration of various libraries and frameworks, such as Styled Components, Bootstrap, Material UI, Ant Design.
+- Optimization of performance and accessibility of web applications.
 
-## Образование
-### [Белорусский государственный технологический университет] | [Год окончания: 2024]
-- Специальность: [инженер-программист-системотехник]
+## Education
+### [Belarusian State Technological University] | [Graduation Year: 2024]
+- Major: [Software Engineer-System Engineer]
 
-## Проекты с возможностью демонстрации
+## Projects with Demonstrations
 ### [404 page]
-- Описание: 404 страница с динамической подсветкой курсора и случанйым обновлением фона.
-- GitHub: https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx
+- Description: A 404 page with dynamic cursor highlighting and random background refresh.
+- GitHub: [https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx](https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx)
+
 ### [BeerKing]
-- Описание: браузерная игра
-- GitHub: https://github.com/XnextOneO/BeerKing
+- Description: Browser-based game.
+- GitHub: [https://github.com/XnextOneO/BeerKing](https://github.com/XnextOneO/BeerKing)
+
 ### [HardWare]
-- Описание: базовая верстка согласно макету,адаптив, логика авторизации, взаимодействие с mockapi.
-- GitHub: https://github.com/XnextOneO/BeerKing
+- Description: Basic layout according to the design, responsive design, authentication logic, interaction with mockapi.
+- GitHub: [https://github.com/XnextOneO/BeerKing](https://github.com/XnextOneO/BeerKing)
 
-## Дополнительная информация
-- Владение английским языком на техническом уровне.
-- Стремление к саморазвитию и изучению новых технологий.
-
-
+## Additional Information
+- Proficient in English at a technical level.
+- Committed to self-improvement and learning new technologies.
