@@ -14,7 +14,7 @@ Andrey Zhurawliou
 - Redux / Redux Toolkit
 - Axios
 - Git, GitHub
-- HTML, CSS
+- HTML, CSS, Styled Components
 - Flexbox
 - Responsive and cross-browser layout
 - SQL
