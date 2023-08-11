@@ -43,7 +43,7 @@ Frontend developer with 2 years of experience. Participated in the creation of w
 
 ### [HardWare]
 - Description: Basic layout according to the design, responsive design, authentication logic, interaction with mockapi.
-- GitHub: [https://github.com/XnextOneO/BeerKing](https://github.com/XnextOneO/BeerKing)
+- GitHub: [https://github.com/XnextOneO/palessit-project](https://github.com/XnextOneO/palessit-project)
 
 ## Additional Information
 - Proficient in English at a technical level.
