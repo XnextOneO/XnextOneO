@@ -40,10 +40,12 @@ Frontend developer with 2 years of experience. Participated in the creation of w
 ### [BeerKing]
 - Description: Browser-based game.
 - GitHub: [https://github.com/XnextOneO/BeerKing](https://github.com/XnextOneO/BeerKing)
+- Deployment: [https://xnextoneo.github.io/BeerKing/](https://xnextoneo.github.io/BeerKing/)
 
 ### [HardWare]
 - Description: Basic layout according to the design, responsive design, authentication logic, interaction with mockapi.
 - GitHub: [https://github.com/XnextOneO/palessit-project](https://github.com/XnextOneO/palessit-project)
+- Deployment: [https://palessit-project-6ti7iuj1t-xnextoneo.vercel.app/](https://palessit-project-6ti7iuj1t-xnextoneo.vercel.app/)
 
 ## Additional Information
 - Proficient in English at a technical level.
