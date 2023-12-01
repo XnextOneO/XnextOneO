@@ -3,14 +3,15 @@
 ## Name
 Andrey Zhurawliou
 
-## Contacts
+## ☎️ Contact information 
 - Email: xnextone@gmail.com
 - GitHub: [github.com/XnextOneO](https://github.com/XnextOneO)
 - Telegram: [https://t.me/xnextone](https://t.me/xnextone)
 
-## Skills
+# `⭐`Skills
 - JavaScript, TypeScript
 - React
+- LiteFront
 - Redux / Redux Toolkit
 - Axios
 - Git, GitHub
@@ -23,16 +24,19 @@ Andrey Zhurawliou
 ## Bio
 Frontend developer with 2 years of experience. Participated in the creation of websites and web pages for both individuals and companies.
 
-## Work Experience
+## <strong>👩🏻‍💻</strong> Work experience
 - Development and maintenance of user interfaces for web applications using React, JavaScript, and TypeScript.
 - Integration of various libraries and frameworks, such as Styled Components, Bootstrap, Material UI, Ant Design.
 - Optimization of performance and accessibility of web applications.
+- <a href="https://balkontracker.de/index.html" target="_new">**Balkontracker</a>
+- <a href="https://ires-b2b.eu/" target="_new">**Ires-b2b</a>
+- <a href="https://apps.apple.com/us/app/get-outfit-shop-luxury-brands/id6448672920?platform=ipad" target="_new">**Get Outfit</a>
 
 ## Education
 ### [Belarusian State Technological University] | [Graduation Year: 2024]
 - Major: [Software Engineer-System Engineer]
 
-## Projects with Demonstrations
+## 🛠 Pet-Projects
 ### [404 page]
 - Description: A 404 page with dynamic cursor highlighting and random background refresh.
 - GitHub: [https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx](https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx)
