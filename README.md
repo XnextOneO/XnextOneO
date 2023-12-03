@@ -13,6 +13,7 @@ Andrey Zhurawliou
 - React
 - LiteFront
 - Redux / Redux Toolkit
+- Axios
 - Git, GitHub, GitLab
 - HTML, CSS, Styled Components
 - Flexbox
