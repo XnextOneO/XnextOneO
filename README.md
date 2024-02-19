@@ -31,6 +31,7 @@ Frontend developer with 2 years of experience. Participated in the creation of w
 - <a href="https://balkontracker.de/index.html" target="_new">Balkontracker</a>
 - <a href="https://ires-b2b.eu/" target="_new">Ires-b2b</a>
 - <a href="https://apps.apple.com/us/app/get-outfit-shop-luxury-brands/id6448672920?platform=ipad" target="_new">Get Outfit</a>
+- <a href="https://pulsarnpp.ru/" target="_new">Pulsarnpp</a>
 
 ## Education
 ### [Belarusian State Technological University] | [Graduation Year: 2024]
