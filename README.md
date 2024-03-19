@@ -7,7 +7,7 @@ Andrey Zhurawliou
 - Email: xnextone@gmail.com
 - GitHub: [github.com/XnextOneO](https://github.com/XnextOneO)
 - Telegram: [https://t.me/xnextone](https://t.me/xnextone)
-
+- LinkedIn: [https://www.linkedin.com/in/andrey-zhurawliou/](https://www.linkedin.com/in/andrey-zhurawliou/)
 # `⭐`Skills
 - JavaScript, TypeScript
 - React
