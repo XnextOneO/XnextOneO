@@ -11,7 +11,7 @@ Andrey Zhurawliou
 # `⭐`Skills
 - JavaScript, TypeScript
 - React
-- LiteFront
+- LiteFront, MUI, antd, bootstrap
 - Redux / Redux Toolkit
 - Axios
 - GraphQL
