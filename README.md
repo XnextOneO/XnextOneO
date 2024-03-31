@@ -12,7 +12,7 @@ Andrey Zhurawliou
 - JavaScript, TypeScript
 - React
 - LiteFront, MUI, antd, bootstrap
-- Redux / Redux Toolkit
+- Zustand
 - Axios
 - GraphQL
 - Git, GitHub, GitLab
