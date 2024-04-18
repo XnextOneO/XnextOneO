@@ -42,6 +42,7 @@ Frontend developer with 2 years of experience. Participated in the creation of w
 ### [404 page]
 - Description: A 404 page with dynamic cursor highlighting and random background refresh.
 - GitHub: [https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx](https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx)
+- Deployment: [https://xnextoneo.github.io/404page/](https://xnextoneo.github.io/404page/)
 
 ### [BeerKing]
 - Description: Browser-based game.
