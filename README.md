@@ -40,6 +40,10 @@ Frontend developer with 2 years of experience. Participated in the creation of w
 - Major: [Software Engineer-System Engineer]
 
 ## 🛠 Pet-Projects
+### [edaeda]
+- Description: food delivery app.
+- Deployment: [https://delivery-demo.uxna.me/](https://delivery-demo.uxna.me/)
+
 ### [404 page]
 - Description: A 404 page with dynamic cursor highlighting and random background refresh.
 - GitHub: [https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx](https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx)
