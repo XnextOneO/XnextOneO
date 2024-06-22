@@ -21,6 +21,8 @@ Andrey Zhurawliou
 - Responsive and cross-browser layout
 - SQL
 - Docker
+- FSD
+- Telegram API
 
 ## Bio
 Frontend developer with 2 years of experience. Participated in the creation of websites and web pages for both individuals and companies.
