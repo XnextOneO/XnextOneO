@@ -1,66 +1,80 @@
-# CV
+# Андрей Журавлёв
 
-## Name
-Andrey Zhurawliou
+**Frontend-разработчик (React, TypeScript)**
 
-## ☎️ Contact information 
-- Email: xnextone@gmail.com
-- GitHub: [github.com/XnextOneO](https://github.com/XnextOneO)
-- Telegram: [https://t.me/xnextone](https://t.me/xnextone)
-- LinkedIn: [https://www.linkedin.com/in/andrey-zhurawliou/](https://www.linkedin.com/in/andrey-zhurawliou/)
-# `⭐`Skills
-- JavaScript, TypeScript
-- React
-- LiteFront, MUI, antd, bootstrap
-- Zustand
-- Axios
-- GraphQL
-- Git, GitHub, GitLab
-- HTML, CSS, Styled Components
-- Flexbox
-- Responsive and cross-browser layout
-- SQL
-- Docker
-- FSD
-- Telegram API
+Телефон: +375 25 908 6664 · Email: xnextone@gmail.com · Telegram: @xnextone · GitHub: github.com/XnextOneO
 
-## Bio
-Frontend developer with 2 years of experience. Participated in the creation of websites and web pages for both individuals and companies.
+Город: Минск · Формат работы: офис / гибрид / удалённо
 
-## <strong>👩🏻‍💻</strong> Work experience
-- Development and maintenance of user interfaces for web applications using React, JavaScript, and TypeScript.
-- Integration of various libraries and frameworks, such as Styled Components, Bootstrap, Material UI, Ant Design.
-- Optimization of performance and accessibility of web applications.
-- <a href="https://owner.one/" target="_new">Owner.one</a>
-- <a href="https://balkontracker.de/index.html" target="_new">Balkontracker</a>
-- <a href="https://ires-b2b.eu/" target="_new">Ires-b2b</a>
-- <a href="https://apps.apple.com/us/app/get-outfit-shop-luxury-brands/id6448672920?platform=ipad" target="_new">Get Outfit</a>
-- <a href="https://pulsarnpp.ru/" target="_new">Pulsarnpp</a>
+## О себе
 
-## Education
-### [Belarusian State Technological University] | [Graduation Year: 2024]
-- Major: [Software Engineer-System Engineer]
+Frontend-инженер с 4 годами коммерческого опыта на React и TypeScript. Последние 2 года специализируюсь на разработке надёжных интерфейсов в банковском секторе (системы межбанковских расчётов и платежей).
 
-## 🛠 Pet-Projects
-### [edaeda]
-- Description: food delivery app.
-- Deployment: [https://delivery-demo.uxna.me/](https://delivery-demo.uxna.me/)
+Отвечаю за фичи полного цикла: от проектирования слоя данных и типизированных API-клиентов до E2E-автотестов и деплоя. Выстраиваю архитектуру по Feature-Sliced Design (FSD), внедряю практики контрактной разработки (MSW) и автоматизированного тестирования (Playwright, Vitest).
 
-### [404 page]
-- Description: A 404 page with dynamic cursor highlighting and random background refresh.
-- GitHub: [https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx](https://github.com/XnextOneO/palessit-project/blob/master/src/pages/404.tsx)
-- Deployment: [https://xnextoneo.github.io/404page/](https://xnextoneo.github.io/404page/)
+## Навыки
 
-### [BeerKing]
-- Description: Browser-based game.
-- GitHub: [https://github.com/XnextOneO/BeerKing](https://github.com/XnextOneO/BeerKing)
-- Deployment: [https://xnextoneo.github.io/BeerKing/](https://xnextoneo.github.io/BeerKing/)
+- **Основное:** TypeScript, JavaScript, React (Hooks, Context API), Next.js, HTML5, CSS3
+- **Состояние и данные:** TanStack Query, TanStack Router, Zustand, Zod (схемы валидации), REST API, GraphQL (Apollo Client), WebSocket, Server-Sent Events
+- **UI и вёрстка:** Tailwind CSS, SCSS, Mantine, Ant Design, Storybook, адаптивная и кроссбраузерная вёрстка, доступность (a11y), Figma
+- **Тестирование и качество кода:** Playwright (E2E), Vitest, Jest, React Testing Library, Mock Service Worker (MSW), ESLint, Biome, Code Review
+- **Архитектура и сборка:** Feature-Sliced Design (FSD), Vite, Webpack, серверный рендеринг (Next.js, Vike), дизайн-системы и общие UI-библиотеки
+- **Дополнительно:** Docker, CI/CD, Git, Node.js, Service Workers / PWA, Hono, Go, React Native, Scrum, Jira
 
-### [HardWare]
-- Description: Basic layout according to the design, responsive design, authentication logic, interaction with mockapi.
-- GitHub: [https://github.com/XnextOneO/palessit-project](https://github.com/XnextOneO/palessit-project)
-- Deployment: [https://palessit-project-6ti7iuj1t-xnextoneo.vercel.app/](https://palessit-project-6ti7iuj1t-xnextoneo.vercel.app/)
+## Опыт работы
 
-## Additional Information
-- Proficient in English at a technical level.
-- Committed to self-improvement and learning new technologies.
+### Frontend-разработчик — Беларусбанк
+**сентябрь 2024 — настоящее время**
+
+*Автоматизированная система межбанковских расчётов и сообщений в банковском секторе. Высокие требования к отказоустойчивости, скорости работы и финансовой безопасности.*
+
+- **Высоконагруженные интерфейсы:** Разработал рабочие места операторов с поддержкой таблиц на десятки тысяч записей и многоуровневой фильтрацией; внедрил виртуализацию и мемоизацию рендеринга, добившись стабильных 60 FPS при скролле и мгновенного отклика поиска.
+- **Отказоустойчивость платежей:** Спроектировал многошаговый мастер оформления платежей с динамическими зависимыми полями и строгой Zod-валидацией; исключил риск повторных списаний за счёт дебаунса и идемпотентной блокировки повторной отправки.
+- **Безопасность и сессии:** Реализовал ролевую модель доступа (RBAC) и механизм бесшовного обновления токенов (silent refresh); настроил автосохранение черновиков, предотвратив потерю введённых данных оператором при истечении сессии посреди формы.
+- **Ускорение процессов разработки:** Внедрил контрактную разработку на Mock Service Worker (MSW) для фронтенд-команды из 4 человек, устранив простои в ожидании готовности бэкенда (ранее задержки доходили до месяца).
+- **Архитектура и культура кода:** Перевёл ключевые платёжные модули и справочники на Feature-Sliced Design (FSD), курировал библиотеку переиспользуемых UI-компонентов, единый стиль TypeScript-типизации и проводил регулярные код-ревью.
+- **Автоматизация тестирования:** Покрыл ключевые платёжные сценарии E2E-тестами на Playwright, снизив вероятность регрессионных сбоев при релизах.
+
+### Продуктовая и контрактная разработка
+**октябрь 2022 — настоящее время**
+
+**BalKukol — маркетплейс авторских изделий (1000+ продавцов)**  
+*февраль 2026 — настоящее время*
+- Спроектировал приложение с серверным рендерингом на связке Vike + Hono: настроил SSR каталога, динамическую генерацию sitemap.xml, robots.txt и канонические URL для эффективного SEO-продвижения.
+- Реализовал real-time чат покупателя и продавца на WebSocket с оптимистичным обновлением интерфейса (Optimistic UI) и автоматическим восстановлением соединения при обрыве сети.
+- Оптимизировал сетевой слой: настроил дебаунс, предотвратил дублирование запросов и добавил информативные нотификации об ошибках. Настроил деплой в Docker с веб-сервером Caddy (автоматический HTTPS).
+
+**Ya-Sdelal — учёт и распределение производственных задач**  
+*июнь 2025 — март 2026*
+- Разработал мобильный веб-клиент для сотрудников на выездных объектах с оперативным приёмом задач через сканирование QR-кодов камерой устройства.
+- Спроектировал Offline-First архитектуру: локальная очередь действий сохраняет данные без интернета и автоматически синхронизирует их при восстановлении сети.
+- Реализовал сбор мультимедиа-отчётов (аудио и видео через MediaDevices API), виртуализированные бесконечные списки и модуль рукописной подписи документов на сенсорных экранах.
+- Разработал административную панель с интерактивным деревом задач (редактирование, клонирование веток, проверка связей) и централизованную систему сбора клиентских ошибок в телеметрию.
+
+**GetOutfit — сервис подбора образов на базе AI**  
+*январь 2025 — июнь 2025*
+- Разработал интерфейс AI-генератора образов с витриной превью, гибким выбором параметров и потоковым отображением прогресса генерации через Server-Sent Events (SSE).
+- Оптимизировал скорость загрузки страниц с большими галереями изображений за счёт ленивой загрузки, предзагрузки контента и кэширования серверных запросов через TanStack Query.
+
+**Контрактная разработка**  
+*октябрь 2023 — сентябрь 2024*
+- **Telegram Mini Apps (рекламная сеть):** Разработка производительных веб-приложений внутри Telegram с жестким контролем размера бандла и оптимизацией времени холодного старта.
+- **Balcon Trekker (React Native):** Разработка модуля визуализации телеметрии с датчиков и интерактивных графиков в мобильном приложении.
+- **Owner.One, Anro.Digital:** Разработка интерфейсов на Next.js, интеграция GraphQL через Apollo Client, развитие библиотеки общих компонентов.
+
+**Фриланс и первые проекты**  
+*октябрь 2022 — сентябрь 2023*
+- Разработка SPA-приложений на React и TypeScript для малого бизнеса: адаптивная кроссбраузерная вёрстка, интеграция REST API.
+- GetOutfit (июнь — сентябрь 2023): участие в разработке первой версии интерфейса AI-генератора образов.
+
+## Образование
+
+**Белорусский государственный технологический университет**, 2020–2024  
+Факультет информационных технологий, инженер-программист (инженер-системотехник)
+
+## Пет-проект
+
+**3dmodel — просмотр 3D-моделей в браузере (MVP, в разработке)**
+- Бэкенд на Go: конвертация форматов, квоты, ограничение частоты запросов.
+- Фронтенд на React: чанковая загрузка тяжелых файлов с проверкой прав, генерация превью, просмотрщик моделей.
+- PWA: мультиязычность через Paraglide, офлайн-режим через Service Worker.
