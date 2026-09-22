@@ -2,7 +2,7 @@
 
 **Frontend-разработчик (React, TypeScript)**
 
-Телефон: +375 25 908 6664 · Email: xnextone@gmail.com · Telegram: @xnextone · GitHub: github.com/XnextOneO
+Телефон: +375 25 908 6664 · Email: xnextone@gmail.com · Telegram: @xnextone · GitHub: github.com/XnextOneO · LinkedIn : https://www.linkedin.com/in/andrey-zhurawliou/
 
 Город: Минск · Формат работы: офис / гибрид / удалённо
 
